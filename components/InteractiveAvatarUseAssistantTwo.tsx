@@ -16,9 +16,9 @@ import { PauseCircle } from "@phosphor-icons/react/dist/ssr";
 
 // 60439e8c0fe7428bb9b6c41772258a6b 陳總
 // ed51e110ff96491c8595cf9c9c3f6d61 Amanda
-// cfbdfe9fd9de4307b81719fcbc6084c0 
+// cfbdfe9fd9de4307b81719fcbc6084c0 我
 // 52f3786c8c9543248a5cfcddad53813a
-const avatarId = "cfbdfe9fd9de4307b81719fcbc6084c0"; //'Angela-insuit-20220820';
+const avatarId = "60439e8c0fe7428bb9b6c41772258a6b"; //'Angela-insuit-20220820';
 //const avatarId = "ed51e110ff96491c8595cf9c9c3f6d61"
 const voiceId = "118e0e91a87a4e60a1353a438b3601ac";
 
