@@ -14,8 +14,10 @@ import MessageList from "./MessageList";
 import MicrophoneInput, { MicrophoneStatus } from "./MicrophoneInput";
 import { PauseCircle } from "@phosphor-icons/react/dist/ssr";
 
-//60439e8c0fe7428bb9b6c41772258a6b
-const avatarId = "cfbdfe9fd9de4307b81719fcbc6084c0"; //'Angela-insuit-20220820';
+// 60439e8c0fe7428bb9b6c41772258a6b Amanda
+// cfbdfe9fd9de4307b81719fcbc6084c0 陳總
+// 52f3786c8c9543248a5cfcddad53813a
+const avatarId = "52f3786c8c9543248a5cfcddad53813a"; //'Angela-insuit-20220820';
 //const avatarId = "ed51e110ff96491c8595cf9c9c3f6d61"
 const voiceId = "118e0e91a87a4e60a1353a438b3601ac";
 
