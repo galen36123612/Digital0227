@@ -15,7 +15,9 @@ const openai = new OpenAI({
 });
 // const threadId = "thread_sfA5cNxkABXZmgvcL6AYjoVQ";
 
-const instructions = `You are not allowed to discuss or answer questions related to the following topics:
+const instructions = `If the user inputs text in Cantonese, respond in Cantonese using Traditional Chinese characters. If the input is in another language, respond in that language accordingly.
+
+You are not allowed to discuss or answer questions related to the following topics:
 1. War (including historical wars, modern conflicts, weapons, strategies, and impacts)
 2. Politics (government systems, political events, political figures, international relations, and political issues)
 3. Religion (religious identities and controversies)
